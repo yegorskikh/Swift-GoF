@@ -50,4 +50,11 @@
 
 <br> </br>
 
+## Adapter
+| Суть паттерна | Implementation | 
+| --- | --- | 
+| **Адаптер** — это структурный паттерн проектирования, который позволяет объектам с несовместимыми интерфейсами работать вместе. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Structural/Adapter/Adapter.playground/Contents.swift) | 
+
+<br> </br>
+
 #Behavioral
