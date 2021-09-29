@@ -7,6 +7,14 @@
 <br> </br>
 
 # Generative
+
+<p align='center'>
+    <a href='' target="_blank">
+    <img src="https://img.shields.io/badge/Generative-blueviolet.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+ <p align='center'>     
+</p>
+
 ## Singleton
 | Суть паттерна | Implementation | 
 | --- | --- | 
@@ -43,6 +51,14 @@
 <br> </br>
 
 # Structural
+
+<p align='center'>
+    <a href='' target="_blank">
+    <img src="https://img.shields.io/badge/Structural-blueviolet.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+ <p align='center'>     
+</p>
+
 ## Facade
 | Суть паттерна | Implementation | 
 | --- | --- | 
@@ -59,7 +75,20 @@
 
 # Behavioral
 
+<p align='center'>
+    <a href='' target="_blank">
+    <img src="https://img.shields.io/badge/Behavioral-blueviolet.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+ <p align='center'>     
+</p>
+
+
 ## Chain of Responsibility
 | Суть паттерна | Implementation | 
 | --- | --- | 
 | **Цепочка обязанностей** —  это поведенческий паттерн проектирования, который позволяет передавать запросы последовательно по цепочке обработчиков. Каждый последующий обработчик решает, может ли он обработать запрос сам и стоит ли передавать запрос дальше по цепи. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Behavioral/ChainOfResponsibility.playground/Contents.swift) | 
+
+## Observer
+| Суть паттерна | Implementation | 
+| --- | --- | 
+| **Наблюдатель** — это поведенческий паттерн проектирования, который создаёт механизм подписки, позволяющий одним объектам следить и реагировать на события, происходящие в других объектах. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Behavioral/Observer.playground/Contents.swift) | 
