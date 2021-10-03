@@ -103,3 +103,9 @@
 | Суть паттерна | Implementation | 
 | --- | --- | 
 | **Наблюдатель** — это поведенческий паттерн проектирования, который создаёт механизм подписки, позволяющий одним объектам следить и реагировать на события, происходящие в других объектах. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Behavioral/Observer.playground/Contents.swift) | 
+
+
+## Visitor
+| Суть паттерна | Implementation | 
+| --- | --- | 
+| **Посетитель** — это поведенческий паттерн проектирования, который позволяет добавлять в программу новые операции, не изменяя классы объектов, над которыми эти операции могут выполняться. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Behavioral/Visitor.playground/Contents.swift) | 
