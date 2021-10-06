@@ -26,6 +26,9 @@
 | **Adapter** | **Адаптер** — это структурный паттерн проектирования, который позволяет объектам с несовместимыми интерфейсами работать вместе. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Structural/Adapter.playground/Contents.swift) | 
 | **Proxy** | **Заместитель** — это структурный паттерн проектирования, который позволяет подставлять вместо реальных объектов специальные объекты-заменители. Эти объекты перехватывают вызовы к оригинальному объекту, позволяя сделать что-то до или после передачи вызова оригиналу. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Structural/Proxy.playground/Contents.swift) |
 | **Flyweight** | **Легковес** — это структурный паттерн проектирования, который позволяет вместить бóльшее количество объектов в отведённую оперативную память. Легковес экономит память, разделяя общее состояние объектов между собой, вместо хранения одинаковых данных в каждом объекте. | [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Structural/Flyweight.playground/Contents.swift) |
+| **Bridge** | Мост — это структурный паттерн проектирования, который разделяет один или несколько классов на две отдельные иерархии — абстракцию и реализацию, позволяя изменять их независимо друг от друга.| [link](https://github.com/egorskikh/Design-Patterns-Catalog/blob/main/Structural/Bridge.playground/Contents.swift) |
+
+
 
 <br> </br>
 
