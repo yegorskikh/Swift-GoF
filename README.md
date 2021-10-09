@@ -43,5 +43,4 @@
 | **Mediator** | **Посредник** - это поведенческий паттерн проектирования, который позволяет уменьшить связанность множества классов между собой, благодаря перемещению этих связей в один класс-посредник. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/tree/main/Behavioral/Mediator.playground) | 
 | **Template Method** | **Шаблонный методd** - это поведенческий паттерн проектирования, который определяет скелет алгоритма, перекладывая ответственность за некоторые его шаги на подклассы. Паттерн позволяет подклассам переопределять шаги алгоритма, не меняя его общей структуры. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/tree/main/Behavioral/TemplateMethod.playground) | 
 | **Memento** | **Снимок** — это поведенческий паттерн проектирования, который позволяет сохранять и восстанавливать прошлые состояния объектов, не раскрывая подробностей их реализации. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/tree/main/Behavioral/Memento.playground) | 
-
-Снимок 
+ 
