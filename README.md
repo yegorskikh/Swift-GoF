@@ -1,5 +1,15 @@
 # Design-Patterns-Catalog
+<p align='center'>
+This repository was written based on this book.
+<p align='center'>
+</p>
+<p align='center'>
+ <a href='https://refactoring.guru/ru/design-patterns' target="_blank">
+    <img src="https://img.shields.io/badge/Refactoring-9cf"/>
+<p align='center'>
+</p>
 
+# Patterns
 | **Generative** / Порождающие | **Structural** / Структурные | **Behavioral** / Поведенческие | 
 | --- | --- | --- |
 | Отвечают за удобное и безопасное создание новых объектов или даже целых семейств объектов. | Отвечают за построение удобных в поддержке иерархий классов. | Решают задачи эффективного и безопасного взаимодействия между объектами программы. | 
@@ -28,9 +38,7 @@
 | **Flyweight** | **Легковес** — это структурный паттерн проектирования, который позволяет вместить бóльшее количество объектов в отведённую оперативную память. Легковес экономит память, разделяя общее состояние объектов между собой, вместо хранения одинаковых данных в каждом объекте. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Flyweight.playground/Contents.swift) |
 | **Bridge** | **Мост** — это структурный паттерн проектирования, который разделяет один или несколько классов на две отдельные иерархии — абстракцию и реализацию, позволяя изменять их независимо друг от друга.| [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Bridge.playground/Contents.swift) |
 | **Composite** | **Компоновщик** — это структурный паттерн проектирования, который позволяет сгруппировать множество объектов в древовидную структуру, а затем работать с ней так, как будто это единичный объект.| [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Composite.playground/Contents.swift) |
- 
-
-
+| **o** | **o** — это структурный паттерн проектирования, .| [link]() |
 
 <br> </br>
 
@@ -45,4 +53,6 @@
 | **Mediator** | **Посредник** - это поведенческий паттерн проектирования, который позволяет уменьшить связанность множества классов между собой, благодаря перемещению этих связей в один класс-посредник. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Behavioral/Mediator.playground/Contents.swift) | 
 | **Template Method** | **Шаблонный методd** - это поведенческий паттерн проектирования, который определяет скелет алгоритма, перекладывая ответственность за некоторые его шаги на подклассы. Паттерн позволяет подклассам переопределять шаги алгоритма, не меняя его общей структуры. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Behavioral/TemplateMethod.playground/Contents.swift) | 
 | **Memento** | **Снимок** — это поведенческий паттерн проектирования, который позволяет сохранять и восстанавливать прошлые состояния объектов, не раскрывая подробностей их реализации. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Behavioral/Memento.playground/Contents.swift) | 
- 
+| **8** | **o** — это структурный паттерн проектирования, .| [link]() |
+| **9** | **o** — это структурный паттерн проектирования, .| [link]() |
+| **10** | **o** — это структурный паттерн проектирования, .| [link]() |
