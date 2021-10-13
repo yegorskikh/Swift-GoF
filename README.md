@@ -38,7 +38,7 @@ This repository was written based on this book.
 | **Flyweight** | **Легковес** — это структурный паттерн проектирования, который позволяет вместить бóльшее количество объектов в отведённую оперативную память. Легковес экономит память, разделяя общее состояние объектов между собой, вместо хранения одинаковых данных в каждом объекте. | [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Flyweight.playground/Contents.swift) |
 | **Bridge** | **Мост** — это структурный паттерн проектирования, который разделяет один или несколько классов на две отдельные иерархии — абстракцию и реализацию, позволяя изменять их независимо друг от друга.| [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Bridge.playground/Contents.swift) |
 | **Composite** | **Компоновщик** — это структурный паттерн проектирования, который позволяет сгруппировать множество объектов в древовидную структуру, а затем работать с ней так, как будто это единичный объект.| [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Composite.playground/Contents.swift) |
-| **o** | **o** — это структурный паттерн проектирования, .| [link]() |
+| **Decorator** | **Декоратор** — это структурный паттерн проектирования, который позволяет динамически добавлять объектам новую функциональность, оборачивая их в полезные «обёртки».| [link](https://github.com/yegorskikh/Design-Patterns-Catalog/blob/main/Structural/Decorator.playground/Contents.swift) |
 
 <br> </br>
 
