@@ -1,11 +1,11 @@
 # Design-Patterns-Catalog
 <p align='center'>
-This repository was written based on this book.
+This repository is written based on this resource.
 <p align='center'>
 </p>
 <p align='center'>
  <a href='https://refactoring.guru/ru/design-patterns' target="_blank">
-    <img src="https://img.shields.io/badge/Refactoring-9cf"/>
+    <img src="https://img.shields.io/badge/Refactoring-pink"/>
 <p align='center'>
 </p>
 
